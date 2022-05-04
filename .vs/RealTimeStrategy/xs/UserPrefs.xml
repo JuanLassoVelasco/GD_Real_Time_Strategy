@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5880A18C-C035-35BF-DA09-EB88CB6ADA03}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unit/UnitMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Networking/RTSNetworkManager.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/Unit/PlayerMovement.cs" Line="42" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealTimeStrategy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Unit" expanded="True">
+                  <Node name="UnitMovement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0a847ee-e3f4-46fa-b190-dbb5e4e4f95d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
