@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{5880A18C-C035-35BF-DA09-EB88CB6ADA03}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unit/UnitSelectionHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unit/UnitCommandGiver.cs">
     <Files>
       <File FileName="Assets/Scripts/Networking/RTSNetworkManager.cs" Line="19" Column="54" />
-      <File FileName="Assets/Scripts/Buildings/UnitSpawner.cs" Line="19" Column="13" />
-      <File FileName="Assets/Scripts/Unit/UnitMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Unit/Unit.cs" Line="27" Column="1" />
-      <File FileName="Assets/Scripts/Unit/UnitSelectionHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buildings/UnitSpawner.cs" />
+      <File FileName="Assets/Scripts/Unit/UnitMovement.cs" />
+      <File FileName="Assets/Scripts/Unit/Unit.cs" />
+      <File FileName="Assets/Scripts/Unit/UnitSelectionHandler.cs" Line="31" Column="47" />
+      <File FileName="Assets/Scripts/Unit/UnitCommandGiver.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,7 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Unit" expanded="True">
-                  <Node name="UnitSelectionHandler.cs" selected="True" />
+                  <Node name="UnitCommandGiver.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -25,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8a307140-1dbc-4131-9bc5-0d29bb92f1b2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="72287b23-960d-496d-bec7-73dfd14501c1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
