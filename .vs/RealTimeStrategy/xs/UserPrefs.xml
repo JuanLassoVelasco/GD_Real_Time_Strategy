@@ -1,9 +1,18 @@
 ﻿<Properties StartupConfiguration="{5880A18C-C035-35BF-DA09-EB88CB6ADA03}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unit/Unit.cs">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="20314a48-6a16-4a05-a049-fabc3a7b3e11" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unit/UnitMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/Unit/UnitMovement.cs" Line="14" Column="11" />
-      <File FileName="Assets/Scripts/Unit/Unit.cs" Line="51" Column="39" />
-      <File FileName="Assets/Scripts/Networking/RTSPlayer.cs" Line="52" Column="39" />
+      <File FileName="Assets/Scripts/Combat/Targetable.cs" Line="6" Column="43" />
+      <File FileName="Assets/Scripts/Unit/UnitCommandGiver.cs" Line="36" Column="20" />
+      <File FileName="Assets/Scripts/Combat/Targeter.cs" Line="12" Column="23" />
+      <File FileName="Assets/Scripts/Unit/UnitMovement.cs" Line="24" Column="115" />
+      <File FileName="Assets/Scripts/Unit/Unit.cs" Line="11" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,9 +20,11 @@
           <Node name="RealTimeStrategy" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
+                <Node name="Buildings" expanded="True" />
+                <Node name="Combat" expanded="True" />
                 <Node name="Networking" expanded="True" />
                 <Node name="Unit" expanded="True">
-                  <Node name="Unit.cs" selected="True" />
+                  <Node name="UnitMovement.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -30,11 +41,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="31072f66-f42c-4500-b4fe-c0a3b89cd5a0" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -60,10 +60,16 @@
     <Compile Include="Assets/Scripts/Buildings/UnitSpawner.cs" />
     <Compile Include="Assets/Scripts/Unit/UnitCommandGiver.cs" />
     <Compile Include="Assets/Scripts/Networking/RTSPlayer.cs" />
+    <Compile Include="Assets/Scripts/Combat/Targeter.cs" />
+    <Compile Include="Assets/Scripts/Combat/Targetable.cs" />
+    <Compile Include="Assets/Scripts/Unit/UnitFireing.cs" />
     <Compile Include="Assets/Scripts/Unit/Unit.cs" />
+    <Compile Include="Assets/Scripts/Unit/UnitProjectile.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
+    <Compile Include="Assets/Scripts/Combat/Health.cs" />
     <Compile Include="Assets/Scripts/Unit/UnitMovement.cs" />
     <Compile Include="Assets/Scripts/Unit/UnitSelectionHandler.cs" />
+    <Compile Include="Assets/Scripts/Combat/HealthDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll" />
